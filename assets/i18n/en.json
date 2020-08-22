@@ -1,0 +1,15 @@
+{
+    "principal.texto" : "List of fruits",
+    "lenguajeEs":"Spanish",
+    "lenguajeEn":"English",
+    "usuario":"User",
+    "contrasena":"Password",
+    "enviar":"Send",
+    "bienvenida" : "Welcome",
+    "nombre":"Name",
+    "telefono":"Phone",
+    "fax":"Fax",
+    "correo":"Email",
+    "cerrar_sesion":"Logout",
+    "incorrecto":"Incorrect values!"
+  }

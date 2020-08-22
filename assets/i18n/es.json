@@ -1,0 +1,15 @@
+{
+  "principal.texto" : "Lista de frutas",
+  "lenguajeEs":"Español",
+  "lenguajeEn":"Inglés",
+  "usuario":"Usuario",
+  "contrasena":"Contraseña",
+  "enviar":"Enviar",
+  "bienvenida" : "Bienvenido",
+  "nombre":"Nombre",
+  "telefono":"Telefono",
+  "fax":"Fax",
+  "correo":"Correo Electrónico",
+  "cerrar_sesion":"Cerrar Sesión",
+  "incorrecto":"Datos incorrectos!"
+}
